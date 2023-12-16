@@ -1,0 +1,16 @@
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\bin\Debug\Work16.12.exe.config
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\bin\Debug\Work16.12.exe
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\bin\Debug\Work16.12.pdb
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16.12.csproj.AssemblyReference.cache
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16.12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\App.g.cs
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16.12_MarkupCompile.cache
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16.12_MarkupCompile.lref
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\MainWindow.baml
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16.12.g.resources
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16._12.Properties.Resources.resources
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16.12.csproj.GenerateResource.cache
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16.12.csproj.CoreCompileInputs.cache
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16.12.exe
+C:\Users\Владислав III\Documents\Projects C#\Work16.12\Work16.12\obj\Debug\Work16.12.pdb
